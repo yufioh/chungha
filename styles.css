@@ -234,8 +234,8 @@ small,sup, sub {
     overflow:hidden;
     right: 0;
     text-align:left;
-    background: #000;  /* phone border color */
-    box-shadow:0px 0px 9px #F2AEDB;  /* phone shadow */
+    background: #b7fff3;  /* phone border color */
+    box-shadow:0px 0px 9px #79a0f4;  /* phone shadow */
     margin-bottom: 5px;
  
 }
@@ -257,7 +257,7 @@ small,sup, sub {
     height:30px;
     position:absolute;
     top:-10px;
-    background-color:#000;
+    background-color:#b7fff3;
     z-index:999;
     left:80px;
     width:120px;
@@ -269,7 +269,7 @@ small,sup, sub {
     position:absolute;
     right:30px;
     top:15px;
-    background-color:#fff;
+    background-color:#000;
     height:5px;
     width:5px;
     border-radius:100%;
@@ -280,7 +280,7 @@ small,sup, sub {
     height:5px;
     left:30px;
     top:15px;
-    background-color:#fff;
+    background-color:#000;
     position:absolute;
     border-radius:5px;
 }
